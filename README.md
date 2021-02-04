@@ -1,3 +1,3 @@
 # UnityGames
-Hey
-Here I will put all of my Unity Stuff so feel free to download and play them
+This repository was replaced by itch.io
+Check https://arturony.itch.io to see the latest releases
